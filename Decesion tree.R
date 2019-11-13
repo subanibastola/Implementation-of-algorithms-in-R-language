@@ -1,5 +1,5 @@
 ################################################################################################
-#Decesion tree on IRIS using Rpart function and Tree does the same work
+#Decesion tree on IRIS using Rpart function and Tree. Both works the same
 ################################################################################################
 
 install.packages("rpart")
